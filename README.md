@@ -4,9 +4,8 @@ I build practical tools that make data easier to explore and use. My projects ra
 
 ## Skills
 
-- **Python:** command-line tools, desktop apps, FastAPI, and automated tests
-- **Data and databases:** SQLite, PostgreSQL, CSV processing, and MovieLens recommendations
-- **Web:** HTML, CSS, JavaScript, and API-backed applications
+- **Python:** command-line tools, desktop apps, and automated tests
+- **Data and databases:** SQLite, CSV processing, and MovieLens recommendations
 - **R:** Shiny dashboards, Plotly charts, and interactive data tables
 - **Development workflow:** GitHub Actions and project documentation
 
